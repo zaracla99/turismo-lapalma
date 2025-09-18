@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Su modelo turístico',
-            image: './imagenes/Plazas según tipo de alojamiento.jpg',
+            image: 'https://i.postimg.cc/k5wR0P8K/Plazas-seg-n-tipo-de-alojamiento.jpg',
             description: 'Según datos del Cabildo de La Palma, la isla cuenta con 605 viviendas de alquiler turístico registradas que suponen un total de 10.722 plazas. Existen varios tipos, como hoteles, alojamientos rurales o apartamentos, siendo estos últimos los que más plazas aportan al total de la isla.  Los Llanos de Aridane es el municipio con mayor cantidad de alojamientos (144) y, concretamente, de apartamentos turísticos (44). El más grande de la zona es Sol La Palma, del grupo Meliá. ',
             location: {
                 center: [-17.90801, 28.58268],
@@ -156,7 +156,7 @@ onChapterEnter: [
             alignment: 'left',
             hidden: false,
             title: 'La importancia de las conexiones aéreas',
-            image: './imagenes/vuelos.png',
+            image: 'https://i.postimg.cc/j55nK3Q9/vuelos.png',
             description: 'Una de las claves para limitar el turismo en la isla bonita se encuentra su oferta de vuelos. Tomando como referencia el día 18 de septiembre de 2025, este día aterrizaron en la isla 39 vuelos, mientras que en Tenerife, sumando los datos de ambos aeropuertos, llegaron hasta la isla 235 aeronaves',
             location: {
                 center: [-17.75531, 28.62535],
@@ -175,7 +175,7 @@ onChapterEnter: [
             alignment: 'right',
             hidden: false,
             title: 'El papel del turismo',
-            image: './imagenes/Capacidad turística por municipios.png',
+            image: 'https://i.postimg.cc/0N9JXy69/Capacidad-tur-stica-por-municipios.png',
             description: 'A pesar de este modelo, hay poblaciones en las que el turismo juega un papel fundamental y cuyos datos son llamativos. El municipio de Breña Baja es el que más capacidad de plazas hoteleras y extrahoteleras contiene, aportando 3.604 plazas, casi un 34% de la cifra total. ',
             location: {
                 center: [-17.77478, 28.64641],
